@@ -1,0 +1,147 @@
+body {
+  background-color: #FFFFFF;
+}
+
+/*#DFDFDE*/
+/*#95BDFF*/
+/*OK-facebook #3E54AC*/
+/* aproape de facebook #537FE7*/
+/* real facebook color #3B5998*/
+
+/*
+hr {
+
+
+width: 10%;
+border-style: none;
+border-top-style: dotted;
+
+border-color: grey;
+border-width: 5px;
+
+}
+
+*/
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+h1 {
+  /*color:*/ /*#3B5998*/ /*#66BFBF  ; */
+  font-variant: small-caps;
+  font-style: normal;
+  font-size: 40px;
+font-family: sans-serif;
+}
+
+h2 {
+  color: white;
+  font-family: serif;
+}
+
+h3{
+  color: #3B5998 /*#66BFBF*/;
+  font-size: 40px;
+  font-style: oblique;
+}
+
+.it {
+  color: red
+}
+
+.img1 {
+  border-radius: 1%;
+  border-color: white;
+  width: 230px;
+}
+
+hr{
+  width: 480px;
+
+}
+
+p {
+  color: #66BFBF;
+  font-size: 19px;
+
+}
+
+.buton{
+  color: #3B5998;
+}
+
+h4{
+  color: #66BFBF ;
+  text-align: justify;
+
+}
+img {
+
+  align-items: center;
+  border-radius: 20%;
+  width: 170px;
+
+  outline: none;
+    border: 5px solid #404B69;
+
+
+    line-height: 2;
+
+    color: #DA0463;
+
+
+    display: inline-block;
+
+
+
+    margin: 5px;
+
+
+}
+
+a {
+  color: white ;
+  align-items: center;
+
+}
+
+.top-container {
+background-color: #F7E7DC; /*ok#EEEDEB;#E6B9A6; #F5EDED;#F5EDED;#E4F9F5;*/
+
+}
+
+
+
+.misiune-container {
+background-color: #E4F9F5;
+/*    E6B9A6; */
+
+}
+
+.membrii-container {
+
+background-color: #E7F0DC;
+
+ /*background-color: #FFDBAA; */
+}
+
+.imagini-container {
+background-color: #DDDDDD;
+
+}
+
+.evenimente-container {
+background-color: #C7C8CC;
+
+}
+
+.footer-container {
+background-color: #213555;
+
+}
+
+* {
+  text-align: center ;
+}
